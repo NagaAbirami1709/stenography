@@ -1,5 +1,5 @@
 **Image Stetnograpgy project**
 
-**STeps:**
+**Steps:**
 1. Install Python 3
 2. Install Opencv -- pip install opencv
